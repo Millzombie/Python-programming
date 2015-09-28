@@ -1,0 +1,2 @@
+Challenge 1: Add XY coordinates - the required parameters are in_features. No optional parameters.
+Dissolve: The required parameters are in_features, out_feature_class. The optional parameters are dissolve_field, statistics_field, multi_part, unsplit_lines 
